@@ -1,6 +1,6 @@
 #git commit
 
-The command `git commit` will take all tracked changes (items added with [git add] (./add.md)) and package them up in what is called a commit.
+The command `git commit` will take all tracked changes (items added with [git add] (./add.md) and package them up in what is called a commit.
 
 Commits come with commit messages that are required for each commit. You add a message to a commit command by using the `m` flag followed by a message in quotes.
 
@@ -13,7 +13,7 @@ git add.
 git commit -m "Added register functionality"
 ```
 
-then when viewing the history of a git repository, you can pinpoint where the reistration functionality was added. 
+Then when viewing the history of a git repository, you can pinpoint where the reistration functionality was added. 
 
 ## Rescources
 

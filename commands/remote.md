@@ -1,6 +1,6 @@
 # git remote
 
-when working with git, a **remote** is any git repository htat is not on the machine you're working on. the counterpart to this is **local**, or machine that is being developed on. 
+When working with git, a **remote** is any git repository htat is not on the machine you're working on. The counterpart to this is **local**, or machine that is being developed on. 
 
 Take GitHub for example. while git is the technology that allows you to create lcoal repositories, GitHub is the site hat will host your reomote repositories. Once stored remotely, you can bring that repository back down or share it with others.
 
@@ -10,7 +10,7 @@ Take GitHub for example. while git is the technology that allows you to create l
 
 A remote can be added with the `git remote add` command, followed by the name and location of the remote.
 
-the name is a local name, meaning it's your labeland does not impace the actual remote whatsoever. 
+The name is a local name, meaning it's your labeland does not impace the actual remote whatsoever. 
 
 ```
 git remote add origin https://github.com/ElevenfiftyAcademy/Gitfun.git

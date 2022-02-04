@@ -1,6 +1,6 @@
 #git pull 
 
-Similar to a [git push] (./push.md), a `git pull` will interact witha remote repository. Only this time it will **pull** the changes it does not have from the remote downto the local repository.
+Similar to a [git push] (./push.md), a `git pull` will interact with a remote repository. Only this time it will **pull** the changes it does not have from the remote downto the local repository.
 
 This means any commits made that are on the remote repository will be pulled down nad added to the local repository. 
 

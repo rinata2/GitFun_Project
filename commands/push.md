@@ -1,6 +1,6 @@
 # git push
 
-When havea a [remote](./remote.md set upyou'll need to begin to move[commits](./commit.md) to the remote. this can be done with the command`git push`.
+When havea a [remote](./remote.md set up you'll need to begin to move[commits](./commit.md) to the remote. This can be done with the command`git push`.
 
 You can attach a name and branch name to your command to specify where you're pushing to.
 
@@ -8,7 +8,7 @@ You can attach a name and branch name to your command to specify where you're pu
 git push origin main
 ```
 
-this command will push the **main** branch to the remote called **origin**. This means any commits are in your local willbe **pusched **to the remote. 
+This command will push the **main** branch to the remote called **origin**. This means any commits are in your local will be **pusched **to the remote. 
 
 ### Upstream Tracking
 
