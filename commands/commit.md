@@ -17,7 +17,7 @@ then when viewing the history of a git repository, you can pinpoint where the re
 
 ## Rescources
 
-- [Git Conmmit Documentation](https://git-sccm.com/docs/git-commit)
+- [Git Conmmit Documentation](https://git-scm.com/docs/git-commit)
 
 ---
 

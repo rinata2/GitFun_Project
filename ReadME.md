@@ -17,6 +17,6 @@ Here is a a growing collection of resources and helpful commands to know when wo
 
 ## External Resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-- [git Documentation](https://git-scm.com/docss)
+- [git Documentation](https://git-scm.com/docs)
 - [git ignore](https://git-scm.com/docss/gitignore) 
 - [git Branches](https://git-scm.com/book/em/v2/Git-Branching-Branches-in-a-Nutshell)

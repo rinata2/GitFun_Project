@@ -13,7 +13,7 @@ if there is any upstream connection
 
 ## Resources 
 
-- [Git Pull Documentation](https://git-sccm.com/docs/git-pull)
+- [Git Pull Documentation](https://git-scm.com/docs/git-pull)
 
 --- mmm
 
