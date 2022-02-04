@@ -10,10 +10,10 @@ git init
 ```
 
 Once inside a git repostiory, you can start using commands such as
--[git status](./Status.md)
--[git add](./Add.md)
--[git commit](./Commit.md)
--[git Push](./Push.md)
+-[git status](./status.md)
+-[git add](./add.md)
+-[git commit](./commit.md)
+-[git Push](./push.md)
 -[git remote](./remote.md)
 and more
 

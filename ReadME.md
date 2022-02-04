@@ -5,12 +5,12 @@ Git is a version control system that allows us to track changes and commit them 
 Here is a a growing collection of resources and helpful commands to know when working with git. 
 
 ##Git Commands
-- [git config](./commands/Config.md)
+- [git config](./commands/config.md)
 - [git init](./commands/Init.md)
 - [git add](./commands/add.md)
-- [git conmmit](./commands/commit.md)
-- [git pull](./push.md)
-- [git remote](./remote.md)
+- [git commit](./commands/commit.md)
+- [git pull](./commands/push.md)
+- [git remotve](./commands/remote.md)
 - [git pull](./commands/pull.md)
 - [git status](./commands/status.md)
 - [git clone](./commands/clone.md)
