@@ -6,7 +6,7 @@ Using ` git status` will show you what changesare being tracked, aren't being tr
 git 
 It's a command that is safe to use at anytime. If you want to see what is going on it's good to use `git status` in between commands until you get to know the flow better. 
 
-````
+```
 git add. 
 git status
 
@@ -21,6 +21,6 @@ git status
 
 - [Git Status Documentation](https://git-scm.com/docs/git-status)
 
---- mmm
+---
 
-[Back to home](../README.md)
+[Back to home](../) 

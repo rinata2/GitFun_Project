@@ -30,4 +30,4 @@ git remote remove origin
 
 --
 
-[Back to home](../README.md)
+[Back to home](../)
