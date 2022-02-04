@@ -10,7 +10,7 @@ Here is a a growing collection of resources and helpful commands to know when wo
 - [git add](./commands/add.md)
 - [git commit](./commands/commit.md)
 - [git pull](./commands/push.md)
-- [git remotve](./commands/remote.md)
+- [git remote](./commands/remote.md)
 - [git pull](./commands/pull.md)
 - [git status](./commands/status.md)
 - [git clone](./commands/clone.md)
