@@ -10,11 +10,11 @@ git init
 ```
 
 Once inside a git repostiory, you can start using commands such as
--[git status] (./Status.md)
+-[git status](./Status.md)
 -[git add](./Add.md)
--[git commit] (./Commit.md)
--[git Push] (./Push.md)
--[git remote] (./remote.md)
+-[git commit](./Commit.md)
+-[git Push](./Push.md)
+-[git remote](./remote.md)
 and more
 
 
@@ -26,4 +26,4 @@ Init will create the repository in the current directory and will encapsulate al
 
 ---
 
-[Back to home] (../README.md)
+[Back to home](../README.md)

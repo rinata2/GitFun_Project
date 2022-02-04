@@ -21,4 +21,4 @@ then when viewing the history of a git repository, you can pinpoint where the re
 
 ---
 
-[Back to home](../READ.md)
+[Back to home](../README.md)
