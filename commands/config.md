@@ -6,7 +6,6 @@ For example, your identity can be set up with the commands such as :
 
 
 git config --global user.name "Arnold Shortman"
-- [git init] (./commands/init.md)
 git config -- global user.email arnoldshortman202@gmail.commands
 [clikck!] (https://www.youtube.com/watch?v=HUBNt18RFbo)
 
@@ -14,7 +13,7 @@ For more information, view the [first time git setup (https://git-scm.com/book/e
 
 ## Resources 
 
-- [Git Congfig Documentation](https:?//git-sccm.com/docs/git-config)
+- [Git Congfig Documentation](https://git-sccm.com/docs/git-config)
 
 --
 
